@@ -15,10 +15,11 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-slate-50 dark:text-dark">
                         <p className="mb-4">
-                        Kheireddine 22 ans étudiant et passionné de voyage et de photographie?
+                        Kheireddine 22 ans étudiant et passionné de voyage et de photographie .
+                        <p className="mb-4">
                             Passion qui met venu en voyant un couché de soleil reflété sur le Rhône.
                             Depuis je veux partagé aux autres la manière dont je vois le monde et ca via les photos que je fais a lyon et pendant mes voayges au tour du globe !
-                        </p>
+                        </p></p>
                     </div>
                 </div>
                 <div className="flex-shrink-0 lg:mt-3 lg:px-1 mb-3">
