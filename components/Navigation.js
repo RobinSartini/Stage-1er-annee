@@ -7,11 +7,11 @@ const Navigation = () => {
 <div className="bg-neutral-900">
   <div className="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
     <div className="relative flex items-center justify-between">
-      <a href="/" aria-label="KuyPhotoGraphy" title="KuyPhotoGraphy" className="inline-flex items-center">
+      <a aria-label="KuyPhotoGraphy" title="KuyPhotoGraphy" className="inline-flex items-center">
         <span className="ml-2 text-xl font-bold tracking-wide text-slate-50 uppercase">KuyPhotoGraphy</span>
       </a>
       <ul className="flex items-center hidden space-x-8 lg:flex">
-        <li><a href="/" aria-label="Acceuil" title="Acceuil" className="font-medium tracking-wide text-slate-50 transition-colors duration-200 hover:text-teal-accent-400">Acceuil</a></li>
+        <li><a aria-label="Acceuil" title="Acceuil" className="font-medium tracking-wide text-slate-50 transition-colors duration-200 hover:text-teal-accent-400">Acceuil</a></li>
         <li><a href="#o" aria-label="Mon Portfolio" title="Mon Portfolio" className="font-medium tracking-wide text-slate-50 transition-colors duration-200 hover:text-teal-accent-400">PortFolio</a></li>
         <li><a href="#t" aria-label="Tarifs" title="Tarifs" className="font-medium tracking-wide text-slate-50 transition-colors duration-200 hover:text-teal-accent-400">Tarifs</a></li>
         <li><a href="#f" aria-label="Contact" title="Contact" className="font-medium tracking-wide text-slate-50 transition-colors duration-200 hover:text-teal-accent-400">Contact</a></li>

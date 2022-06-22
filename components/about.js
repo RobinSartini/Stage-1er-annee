@@ -8,7 +8,7 @@ const About = () => {
             <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col-reverse text-center lg:text-left">
                 <div className="lg:px-4 lg:mt-12 ">
                     <h1 className="text-2xl font-bold text-slate-50 lg:text-5xl dark:text-dark">
-                        I'am 
+                        I am 
                     </h1>
                     <h1 className="text-2xl font-bold text-slate-50 lg:text-5xl dark:text-dark">
                         a PhotoGrapher
