@@ -31,7 +31,7 @@ const Tarifs = () => {
         </div>
       </div>
       <div>
-        <a href="/" className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
+        <a className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
           Seléctionner 
         </a>
         <p className="max-w-xs mt-6 text-xs text-neutral-900 sm:text-sm sm:text-center sm:max-w-sm sm:mx-auto">
@@ -52,9 +52,7 @@ const Tarifs = () => {
         </div>
       </div>
       <div>
-        <a
-          href="/"
-          className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
+        <a className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
           sélectionner
         </a>
         <p className="max-w-xs mt-6 text-xs text-neutral-900 sm:text-sm sm:text-center sm:max-w-sm sm:mx-auto">
@@ -76,7 +74,7 @@ const Tarifs = () => {
         </div>
       </div>
       <div>
-        <a href="/" className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
+        <a  className="inline-flex items-center justify-center w-full h-12 px-6 mt-6 font-medium tracking-wide text-blue-100 transition duration-200 bg-rose-900 rounded shadow-md hover:bg-amber-500 focus:shadow-outline focus:outline-none">
         sélectionner
         </a>
         <p className="max-w-xs mt-6 text-xs text-neutral-900 sm:text-sm sm:text-center sm:max-w-sm sm:mx-auto">
