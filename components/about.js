@@ -15,10 +15,10 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-slate-50 dark:text-dark">
                         <p className="mb-4">
-                        Kheireddine 22 ans étudiant et passionné de voyage et de photographie .
+                        Kheireddine 
                         <p className="mb-4">
-                            Passion qui met venu en voyant un couché de soleil reflété sur le Rhône.
-                            Depuis je veux partagé aux autres la manière dont je vois le monde et ca via les photos que je fais a lyon et pendant mes voayges au tour du globe !
+                        Je m'appelle Kheireddine, j'ai 22 ans, étudiant et passionné par le voyage et la photographie.
+Ma passion est née d’un instant magique : un coucher de soleil se reflétant sur les eaux du Rhône. Depuis, j’ai à cœur de partager ma vision unique du monde à travers l’objectif de mon appareil photo, que ce soit à Lyon ou lors de mes aventures aux quatre coins du globe.
                         </p></p>
                     </div>
                 </div>
